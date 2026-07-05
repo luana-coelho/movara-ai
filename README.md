@@ -1,16 +1,31 @@
-# 🧠 Movara AI
+# 🧠 MOVARA AI
 
-Sistema inteligente para gerenciamento de pacientes e apoio à tomada de decisão clínica em fisioterapia.
+> **Inteligência que transforma a fisioterapia.**
+
+![Banner Movara AI](./public/banner-movara-ai.png)
 
 ---
 
-## 📌 Sobre o projeto
+## 📖 Sobre o projeto
 
-O Movara AI nasceu da união entre minha formação em Fisioterapia e meus estudos em Análise e Desenvolvimento de Sistemas.
+O **Movara AI** é uma plataforma inteligente desenvolvida para auxiliar fisioterapeutas na organização do atendimento clínico e no apoio à tomada de decisão.
 
-O objetivo é desenvolver uma plataforma moderna para auxiliar fisioterapeutas no cadastro de pacientes, organização das avaliações clínicas e apoio na elaboração de condutas baseadas nas características apresentadas pelo paciente.
+O projeto nasceu da união entre minha formação em **Fisioterapia** e meus estudos em **Análise e Desenvolvimento de Sistemas**, com o objetivo de aplicar tecnologia para otimizar a prática clínica.
 
-Este projeto faz parte da construção do meu portfólio como desenvolvedora e continuará evoluindo com novas funcionalidades.
+Além do gerenciamento de pacientes, o sistema busca oferecer sugestões de condutas baseadas nas informações inseridas pelo profissional.
+
+---
+
+## ✨ Funcionalidades
+
+- ✅ Login
+- ✅ Cadastro de pacientes
+- ✅ Edição de pacientes
+- ✅ Exclusão de pacientes
+- ✅ Salvamento automático
+- ✅ Avaliação clínica
+- ✅ Classificação da lombalgia (aguda, subaguda e crônica)
+- ✅ Sugestão inicial de conduta
 
 ---
 
@@ -19,43 +34,59 @@ Este projeto faz parte da construção do meu portfólio como desenvolvedora e c
 - Next.js
 - React
 - TypeScript
-- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
 - Git
 - GitHub
+- Tailwind CSS
 
 ---
 
-## ✅ Funcionalidades
+## 📸 Telas do sistema
 
-- Login
-- Cadastro de pacientes
-- Edição de pacientes
-- Exclusão de pacientes
-- Salvamento automático
-- Avaliação clínica
-- Sugestão de condutas baseada na classificação da lombalgia
-- Organização dos dados do paciente
+### Página inicial
+
+*(imagem)*
+
+### Login
+
+*(imagem)*
+
+### Cadastro de pacientes
+
+*(imagem)*
+
+### Avaliação clínica
+
+*(imagem)*
 
 ---
 
-## 📅 Próximas funcionalidades
+## 🎯 Roadmap
+
+### Em desenvolvimento
 
 - Dashboard
 - Firebase
-- Histórico de atendimentos
-- Relatórios
+- Histórico de avaliações
 - Exportação em PDF
-- Interface profissional
 - Responsividade
+- Integração com IA
+- Relatórios
+- Busca de pacientes
 
 ---
 
-## 🎯 Objetivo
+## 💡 Objetivo
 
-Criar uma plataforma moderna, intuitiva e inteligente para auxiliar profissionais durante a prática clínica.
+Desenvolver uma plataforma moderna, intuitiva e inteligente para apoiar fisioterapeutas durante o atendimento clínico, unindo organização, tecnologia e apoio à decisão.
 
 ---
 
-## 🚧 Status
+## 👩‍💻 Desenvolvedora
 
-Em desenvolvimento.
+**Luana da Silva Coelho Cunha**
+
+- GitHub: https://github.com/luana-coelho
+- LinkedIn: https://linkedin.com/in/luana-coelho-9b5b5270
