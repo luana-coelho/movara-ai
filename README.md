@@ -1,22 +1,53 @@
-# 🧠 MOVARA AI
+<p align="center">
+ <img src="assets/banner-readme.png" width="100%">
+</p>
 
-> **Inteligência que transforma a fisioterapia.**
+<p align="center">
+ <img src="assets/logo-completa.png" width="220"> alt="Movara AI">
+</p>
 
-![Banner Movara AI](./public/banner-movara-ai.png)
+<h1 align="center">MOVARA AI</h1>
+
+<p align="center">
+<b>Tecnologia Inteligente para Transformar a Fisioterapia</b>
+</p>
+
+<p align="center">
+Desenvolvido para unir tecnologia, inteligência artificial e fisioterapia em uma única plataforma.
+</p>
+
+<p align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
 
 ---
 
-## 📖 Sobre o projeto
+# 🎯 Status do Projeto
 
-O **Movara AI** é uma plataforma inteligente desenvolvida para auxiliar fisioterapeutas na organização do atendimento clínico e no apoio à tomada de decisão.
+🚧 Em desenvolvimento ativo.
 
-O projeto nasceu da união entre minha formação em **Fisioterapia** e meus estudos em **Análise e Desenvolvimento de Sistemas**, com o objetivo de aplicar tecnologia para otimizar a prática clínica.
-
-Além do gerenciamento de pacientes, o sistema busca oferecer sugestões de condutas baseadas nas informações inseridas pelo profissional.
+Este projeto recebe melhorias contínuas conforme minha evolução em Desenvolvimento de Software e Fisioterapia.
 
 ---
 
-## ✨ Funcionalidades
+# 🧠 Sobre o Projeto
+
+O **Movara AI** é uma plataforma web desenvolvida para auxiliar fisioterapeutas na gestão de pacientes, organização de avaliações clínicas e apoio à tomada de decisão.
+
+O projeto nasceu da união entre minha formação em **Fisioterapia** e meus estudos em **Análise e Desenvolvimento de Sistemas**, buscando aplicar tecnologia para tornar a prática clínica mais organizada, eficiente e inteligente.
+
+Além das funcionalidades administrativas, o sistema evolui continuamente para incorporar recursos inteligentes voltados ao suporte do profissional de saúde.
+
+---
+
+# ✨ Funcionalidades
 
 - ✅ Login
 - ✅ Cadastro de pacientes
@@ -24,69 +55,134 @@ Além do gerenciamento de pacientes, o sistema busca oferecer sugestões de cond
 - ✅ Exclusão de pacientes
 - ✅ Salvamento automático
 - ✅ Avaliação clínica
-- ✅ Classificação da lombalgia (aguda, subaguda e crônica)
+- ✅ Classificação da lombalgia
 - ✅ Sugestão inicial de conduta
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
-- Next.js
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Git
-- GitHub
-- Tailwind CSS
+| Frontend | Linguagens | Ferramentas |
+|----------|------------|-------------|
+| Next.js | TypeScript | Git |
+| React | JavaScript | GitHub |
+| Tailwind CSS | HTML5 | VS Code |
+| CSS3 | | |
 
 ---
 
-## 📸 Telas do sistema
+# 📂 Estrutura do Projeto
 
-### Página inicial
-
-*(imagem)*
-
-### Login
-
-*(imagem)*
-
-### Cadastro de pacientes
-
-*(imagem)*
-
-### Avaliação clínica
-
-*(imagem)*
+```text
+movara-ai
+│
+├── app
+├── public
+├── assets
+│   ├── banner-readme.jpeg
+│   ├── logo-completa.jpeg
+│   └── logo-m.jpeg
+│
+├── package.json
+├── tsconfig.json
+└── README.md
+```
 
 ---
 
-## 🎯 Roadmap
+# 📸 Telas do Sistema
 
-### Em desenvolvimento
+📷 As imagens da aplicação serão adicionadas conforme novas funcionalidades forem implementadas.
 
+Em breve:
+
+- Tela inicial
+- Login
+- Cadastro de pacientes
+- Avaliação clínica
 - Dashboard
-- Firebase
-- Histórico de avaliações
-- Exportação em PDF
-- Responsividade
-- Integração com IA
-- Relatórios
-- Busca de pacientes
 
 ---
 
-## 💡 Objetivo
+# 🚧 Roadmap
 
-Desenvolver uma plataforma moderna, intuitiva e inteligente para apoiar fisioterapeutas durante o atendimento clínico, unindo organização, tecnologia e apoio à decisão.
+## Concluído
+
+- [x] Login
+- [x] Cadastro de pacientes
+- [x] Edição
+- [x] Exclusão
+- [x] CRUD completo
+- [x] Avaliação clínica
+- [x] Classificação da lombalgia
+- [x] Sugestão inicial de conduta
+
+## Em desenvolvimento
+
+- [ ] Dashboard
+- [ ] Firebase
+- [ ] Histórico de pacientes
+- [ ] Exportação em PDF
+- [ ] Responsividade
+- [ ] Inteligência Artificial
+- [ ] Relatórios
+- [ ] Busca inteligente
+- [ ] Deploy
 
 ---
 
-## 👩‍💻 Desenvolvedora
+# 💡 Motivação
 
-**Luana da Silva Coelho Cunha**
+Como estudante de **Fisioterapia** e de **Análise e Desenvolvimento de Sistemas**, percebi que muitos processos clínicos ainda podem ser melhorados com tecnologia.
 
-- GitHub: https://github.com/luana-coelho
-- LinkedIn: https://linkedin.com/in/luana-coelho-9b5b5270
+O **Movara AI** nasceu com o propósito de unir essas duas áreas, criando uma ferramenta moderna que auxilie profissionais na organização do atendimento e na tomada de decisão clínica.
+
+Este projeto representa minha evolução como desenvolvedora e continuará recebendo melhorias constantes.
+
+---
+
+# ⚙️ Como executar o projeto
+
+```bash
+git clone https://github.com/luana-coelho/movara-ai.git
+
+cd movara-ai
+
+npm install
+
+npm run dev
+```
+
+Abra:
+
+```
+http://localhost:3000
+```
+
+---
+
+# 👩‍💻 Desenvolvedora
+
+## Luana da Silva Coelho Cunha
+
+🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas (em conclusão)
+
+🏥 Graduanda em Fisioterapia
+
+💻 Apaixonada por tecnologia aplicada à saúde.
+
+🐙 GitHub
+
+https://github.com/luana-coelho
+
+💼 LinkedIn
+
+https://linkedin.com/in/luana-coelho-9b5b5270
+
+---
+
+<p align="center">
+
+⭐ Se este projeto foi interessante para você, deixe uma estrela no repositório.
+
+</p>
