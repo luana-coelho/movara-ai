@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <img src="assets/logo-completa.png" width="220"> alt="Movara AI">
+  <img src="assets/logo-completa.jpeg" width="260">
 </p>
 
 <h1 align="center">MOVARA AI</h1>
